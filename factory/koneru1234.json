@@ -1,0 +1,9 @@
+{
+	"name": "koneru1234",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab980bb7-af43-4433-bf20-26dd2620f7db",
+		"tenantId": "2a9aa539-65c8-4a0c-8417-db725f32a94e"
+	}
+}
