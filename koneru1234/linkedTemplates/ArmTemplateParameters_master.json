@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "koneru1234"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"LSadfSSISsssss_password": {
+			"value": ""
+		},
+		"SqlServer1_connectionString": {
+			"value": ""
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://konerukey.vault.azure.net/"
+		},
+		"LSadfSSISsssss_properties_typeProperties_host": {
+			"value": "\\\\koneru.file.core.windows.net\\adfssispack"
+		},
+		"LSadfSSISsssss_properties_typeProperties_userId": {
+			"value": "Azure\\koneru"
+		},
+		"ssisintegrationRuntime_properties_typeProperties_ssisProperties_catalogInfo_catalogServerEndpoint": {
+			"value": "koneru.database.windows.net"
+		},
+		"ssisintegrationRuntime_properties_typeProperties_ssisProperties_catalogInfo_catalogAdminUserName": {
+			"value": "suresh"
+		},
+		"ssisintegrationRuntime_properties_typeProperties_ssisProperties_catalogInfo_catalogAdminPassword": {
+			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
