@@ -1,6 +1,0 @@
-{
-	"name": "sfintegrationRuntime1",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
