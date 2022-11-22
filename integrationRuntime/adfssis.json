@@ -14,11 +14,7 @@
 				"licenseType": "LicenseIncluded",
 				"packageStores": [
 					{
-						"name": "ssispackage",
-						"packageStoreLinkedService": {
-							"referenceName": "LSadfSSISsssss",
-							"type": "LinkedServiceReference"
-						}
+						"name": "ssispackage"
 					}
 				]
 			}
